@@ -254,4 +254,3 @@ No environment variables are required for this assignment.
 - Why local state sync is necessary when using JSONPlaceholder
 - How validation, loading, and error handling improve UX reliability
 - How the responsive design keeps the table usable on smaller screens
-
