@@ -213,31 +213,10 @@ src/
    - Output directory: `dist`
 5. Click Deploy.
 
-No environment variables are required for this assignment.
-
-## Suggested Git Commit History
-
-- `Initial setup with Vite and Bootstrap dependencies`
-- `Create user dashboard folder structure`
-- `Add Context API for dashboard state management`
-- `Implement JSONPlaceholder user service and data mapping`
-- `Fetch users with loading and error handling`
-- `Build responsive user table and row components`
-- `Add user create and edit modal with validation`
-- `Implement delete confirmation modal and local state sync`
-- `Add instant search across user fields`
-- `Build collapsible filter sidebar with apply and reset`
-- `Add sortable table headers and derived table state`
-- `Implement pagination with page sizes and range summary`
-- `Polish responsive dashboard layout for mobile and desktop`
-- `Write project README and deployment guide`
 
 ## Screenshots Placeholder
 
-- Dashboard overview screenshot goes here
-- Add/Edit user modal screenshot goes here
-- Filter sidebar screenshot goes here
-- Mobile responsive layout screenshot goes here
+<img width="1920" height="1662" alt="Image" src="https://github.com/user-attachments/assets/a9ed8a90-64e6-4ac4-812b-627828e866e2" />
 
 ## Project Walkthrough
 
@@ -247,10 +226,3 @@ No environment variables are required for this assignment.
 - `Dashboard.jsx` composes the page and keeps most display logic declarative.
 - The UI remains responsive through Bootstrap grid usage plus targeted custom CSS.
 
-## Interview Talking Points
-
-- Why Context API was enough here instead of Redux or Zustand
-- How derived state is computed without duplicating table data
-- Why local state sync is necessary when using JSONPlaceholder
-- How validation, loading, and error handling improve UX reliability
-- How the responsive design keeps the table usable on smaller screens
